@@ -197,8 +197,8 @@ Resultado: ex.: automatizou o fluxo de consulta para 12 usuários.
 Aberto a novos projetos, parcerias e oportunidades. Me chama! 🤝
 
 <a href="https://github.com/guilhermeasilva84-lgtm"><img src="https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=F3F4F6"/></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=F3F4F6"/></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-9CA3AF?style=for-the-badge&logo=gmail&logoColor=374151"/></a>
+<a href="https://www.linkedin.com/in/guilherme-almeida-515717359/"><img src="https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=F3F4F6"/></a>
+<a href="mailto:guilherme.a.silva84@gmail.com"><img src="https://img.shields.io/badge/E--mail-9CA3AF?style=for-the-badge&logo=gmail&logoColor=374151"/></a>
 
 <br/><br/>
 
