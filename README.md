@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3F4F6,50:D1D5DB,100:9CA3AF&height=230&section=header&text=Guilherme%20Silva&fontSize=56&fontColor=374151&fontAlignY=36&desc=Python%20Backend%20Developer%20%C2%B7%20UI%2FUX%20%C2%B7%20IA&descSize=18&descColor=4B5563&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/guilhermeasilva84-lgtm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6B7280&center=true&vCenter=true&width=700&height=45&lines=Python+Backend+Developer+🐍;APIs+r%C3%A1pidas%2C+limpas+e+escal%C3%A1veis+⚡;Fullstack%3A+React+%2B+CSS+%2B+UI%2FUX+🎨;Desenvolvimento+de+Intelig%C3%AAncia+Artificial+🤖;SQL+bem+modelado%2C+queries+afiadas+🗄️;2+projetos+fullstack+em+produ%C3%A7%C3%A3o+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6B7280&center=true&vCenter=true&width=700&height=45&lines=Python+Backend+Developer Jr+🐍;APIs+r%C3%A1pidas%2C+limpas+e+escal%C3%A1veis+⚡;Fullstack%3A+React+%2B+CSS+%2B+UI%2FUX+🎨;Desenvolvimento+de+Intelig%C3%AAncia+Artificial+🤖;SQL+bem+modelado%2C+queries+afiadas+🗄️;2+projetos+fullstack+em+produ%C3%A7%C3%A3o+🚀" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -26,7 +26,7 @@
 
 ```python
 class GuilhermeSilva(Developer):
-    """Python Backend Developer com visão fullstack."""
+    """Python Backend Develope Jr com visão fullstack."""
 
     foco = "Back-end com Python"
     stack = ["Python", "FastAPI", "Django", "SQL", "React", "CSS"]
