@@ -24,8 +24,6 @@
 <h2 align="center">👋 Sobre mim</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F3F4F6,50:9CA3AF,100:F3F4F6&height=4&section=header" width="100%" alt="divisor"/>
 
-> 💬 *"Código bom é aquele que outra pessoa consegue ler, manter e evoluir."*
-
 ```python
 class GuilhermeSilva(Developer):
     """Python Backend Developer com visão fullstack."""
@@ -127,30 +125,30 @@ flowchart LR
   <tr>
     <td width="50%" valign="top">
 
-### 🏢 Projeto Fullstack #1
+### 🏢 Projeto Fullstack #1 - Aplicativo Checklist TI Tenda Atacado
 
 <img src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/ambiente-empresa-9CA3AF?style=flat-square&labelColor=4B5563"/>
 
-**O que faz:** descreva em 1 ou 2 linhas o sistema e o problema que ele resolve.
+O que faz: Sistema de Chceklist para a empresa Tenda atacado ativo a mais de 6 meses e utilizado até fora do país em Angola, projeto completo com javascripy, python, i.a desenvolvida e consultas em SQL
 
-**Minha parte:** API em Python, modelagem SQL e telas em React.
+Minha parte:** API em Python, modelagem SQL e telas em Css e Javascript.
 
-**Resultado:** ex.: reduziu o tempo do processo X em 40%.
+Resultado: Economia de mais de 240 mil reis o ano.
 
 <img src="https://img.shields.io/badge/Python-374151?style=flat-square&logo=python&logoColor=F3F4F6"/> <img src="https://img.shields.io/badge/FastAPI-4B5563?style=flat-square&logo=fastapi&logoColor=F3F4F6"/> <img src="https://img.shields.io/badge/React-6B7280?style=flat-square&logo=react&logoColor=F3F4F6"/> <img src="https://img.shields.io/badge/CSS-9CA3AF?style=flat-square&logo=css3&logoColor=374151"/> <img src="https://img.shields.io/badge/SQL-D1D5DB?style=flat-square&logo=postgresql&logoColor=374151"/>
 
     </td>
     <td width="50%" valign="top">
 
-### 🏢 Projeto Fullstack #2
+### 🏢 Projeto Fullstack #2 - Estoque de Laboratório de TI
 
 <img src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/ambiente-empresa-9CA3AF?style=flat-square&labelColor=4B5563"/>
 
-**O que faz:** descreva em 1 ou 2 linhas o sistema e o problema que ele resolve.
+O que faz: Sistema de Estoque/Almoxarifado de TI com SQL.
 
-**Minha parte:** APIs REST em Python, banco SQL e interface com UI/UX.
+Minha parte: APIs REST em Python, banco SQL e interface com UI/UX.
 
-**Resultado:** ex.: automatizou o fluxo Y para N usuários.
+Resultado: ex.: automatizou o fluxo de consulta para 12 usuários.
 
 <img src="https://img.shields.io/badge/Python-374151?style=flat-square&logo=python&logoColor=F3F4F6"/> <img src="https://img.shields.io/badge/Django-4B5563?style=flat-square&logo=django&logoColor=F3F4F6"/> <img src="https://img.shields.io/badge/React-6B7280?style=flat-square&logo=react&logoColor=F3F4F6"/> <img src="https://img.shields.io/badge/CSS-9CA3AF?style=flat-square&logo=css3&logoColor=374151"/> <img src="https://img.shields.io/badge/SQL-D1D5DB?style=flat-square&logo=mysql&logoColor=374151"/>
 
