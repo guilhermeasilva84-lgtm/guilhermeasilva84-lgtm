@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="176" viewBox="0 0 216 176" role="img" aria-labelledby="title">
+  <title id="title">Robô em tons de cinza</title>
+  <style>
+    @keyframes blink {
+      0%, 44%, 49%, 100% { transform: scaleY(1) }
+      46% { transform: scaleY(.12) }
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .eye {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: blink 6s ease-in-out infinite;
+      }
+    }
+  </style>
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1">
+      <stop stop-color="#f9fafb"/>
+      <stop offset="1" stop-color="#c6ccd4"/>
+    </linearGradient>
+    <linearGradient id="screen" x2="0" y2="1">
+      <stop stop-color="#374151"/>
+      <stop offset="1" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="212" height="172" rx="26" fill="#f3f4f6" stroke="#d1d5db" stroke-width="2"/>
+  <path d="M75 148h66" stroke="#d1d5db" stroke-width="3" stroke-linecap="round"/>
+  <path d="M108 54V34" stroke="#6b7280" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="108" cy="31" r="6" fill="#374151"/>
+  <rect x="50" y="78" width="15" height="29" rx="7.5" fill="#9ca3af" stroke="#6b7280" stroke-width="2"/>
+  <rect x="151" y="78" width="15" height="29" rx="7.5" fill="#9ca3af" stroke="#6b7280" stroke-width="2"/>
+  <path d="M96 123h24v12a5 5 0 0 1-5 5h-14a5 5 0 0 1-5-5z" fill="#9ca3af" stroke="#6b7280" stroke-width="2"/>
+  <rect x="61" y="53" width="94" height="76" rx="22" fill="url(#shell)" stroke="#6b7280" stroke-width="2"/>
+  <rect x="69" y="62" width="78" height="55" rx="15" fill="url(#screen)"/>
+  <rect class="eye" x="86" y="81" width="10" height="13" rx="5" fill="#f3f4f6"/>
+  <rect class="eye" x="120" y="81" width="10" height="13" rx="5" fill="#f3f4f6"/>
+  <path d="M103 99q5 5 10 0" fill="none" stroke="#d1d5db" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
