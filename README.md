@@ -1,6 +1,7 @@
 <div align="center">
-  <h1><img src="assets/capa.svg" width="100%" alt="Guilherme Almeida da Silva, Desenvolvedor de Software Júnior em Back-end. APIs REST, integrações e automação."></h1>
-  <p><img src="assets/tecnologias.svg" width="560" alt="Python, TypeScript, React e SQL"></p>
+  <h1>Guilherme Almeida da Silva</h1>
+  <p><strong>Desenvolvedor de Software Júnior · Back-end</strong></p>
+  <p>Python · TypeScript · JavaScript · HTML · CSS · SQL</p>
   <p>
     <a href="https://www.linkedin.com/in/guilherme-almeida-515717359/">LinkedIn</a>
     &nbsp;·&nbsp;
@@ -41,7 +42,7 @@ Aplicação em Python e SQL para registrar e consultar itens do almoxarifado de 
 
 <table>
   <tr>
-    <td><img src="assets/robo-ia.svg" width="108" height="88" alt="Robô animado em tons de cinza"></td>
+    <td><img src="assets/robo-ia.svg" width="108" height="88" alt="Ilustração de um robô em tons de cinza"></td>
     <td>Trabalhei em um recurso de IA para o Checklist Operacional. Atualmente, estudo como modelos de linguagem podem automatizar tarefas e apoiar processos internos.</td>
   </tr>
 </table>
